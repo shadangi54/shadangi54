@@ -73,5 +73,5 @@ I'm passionate about:
 ---
 
 <p align="center">
-  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=shivam-shadangi.profile)
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shadangi54.shadangi54)
 </p>
