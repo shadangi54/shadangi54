@@ -24,21 +24,61 @@ learning: ["Advanced System Design", "Kubernetes", "Performance Profiling"]
 hobbies: ["Cooking", "Anime", "Traveling", "Open Source Contributing"]
 ```
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Expertise
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🌐 Backend & Frameworks
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+</div>
+
+- **Java 17+** & Spring Boot 3.x
+- **Spring Cloud** (Gateway, Config, Eureka)
+- **Spring Security** (OAuth 2.0, JWT)
+- **Apache Kafka** for Event Streaming
+- **RESTful APIs**
+
+</td>
+<td valign="top" width="33%">
+
+### 🗄️ Databases & Storage
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+</div>
+
+- **MySQL**
+- **Redis** for Caching & Sessions
+- **JPA/Hibernate** ORM
+- **Database Design** & Optimization
+
+</td>
+<td valign="top" width="33%">
+
+### ☁️ DevOps & Cloud
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+</div>
+
+- **Docker** & **Docker Compose**
+
+</td>
+</tr>
+</table>
+
+### 🔧 Additional Technologies
 <p align="left">
-  <!-- Programming languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32"/>
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="32"/>
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="32"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="Maven" width="32"/>
 </p>
 
+---
 <!--- --- -->
 <!---
 ## 📊 GitHub Stats
