@@ -1,14 +1,15 @@
-![Header](https://capsule-render.vercel.app/api?text=Hi%20I'm%20Shivam%20Shadangi&animation=fadeIn&color=0:667eea,100:764ba2&height=120&fontSize=40&fontAlignY=38&desc=Backend%20Developer%20%7C%20System%20Architect&descAlignY=62&descSize=16)
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Backend+Developer+%26+System+Architect;Building+Scalable+Microservices;Spring+Boot+%2B+Java+%2B+System+Design;Passionate+about+Clean+Architecture)](https://git.io/typing-svg)
+
+# 👋 Hi, I'm Shivam Shadangi
+### Backend Developer & System Architect
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+Scalable+Microservices;Spring+Boot+%7C+Java+%7C+System+Design;Passionate+about+Clean+Architecture;Open+Source+Contributor" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=shadangi54&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
 ---
-
-# 👋 Hi, I'm Shivam Shadangi  
 
 ## 🚀 About Me
 
