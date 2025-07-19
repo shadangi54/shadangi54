@@ -30,17 +30,17 @@ I'm passionate about:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="32"/>
 </p>
 
----
-
+<!--- --- -->
+<!---
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivam-shadangi&show_icons=true&theme=radical"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-shadangi"/>
 </p>
-
----
-
+-->
+<!--- --- -->
+<!---
 ## 🚀 Featured Projects
 
 | Project | Description |
@@ -50,7 +50,7 @@ I'm passionate about:
 | **[DesignPatterns-Library](#)** | Java implementation of GoF patterns with UML diagrams and usages |
 
 ---
-
+-->
 ## 📚 Learning & Contributions
 
 - 🚧 Currently diving into **high-level system design frameworks** & **performance profiling**
