@@ -5,7 +5,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+Scalable+Microservices;Spring+Boot+%7C+Java+%7C+System+Design;Passionate+about+Clean+Architecture;Open+Source+Contributor" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=shadangi54&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
