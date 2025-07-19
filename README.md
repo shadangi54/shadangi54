@@ -1,19 +1,28 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%20there!&animation=wave&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20there!&animation=fadeIn&color=0:667eea,100:764ba2&height=120&fontSize=60&fontAlignY=38&desc=Backend%20Developer%20%7C%20System%20Architect&descAlignY=62&descSize=20"/>
 </p>
 
-# 👋 Hi, I'm Shivam Shadangi  
-**Backend Developer** building scalable APIs and systems.
-
-I'm passionate about:
-- 📦 Backend development & **system design**
-- ⚙️ Performance optimization & **low-level design**
-- 🤝 Collaborating with developer productivity & Java-based projects
-
-**Pronouns:** He/Him  
-**Fun fact:** I love cooking, watching Anime, and traveling.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shivam+Shadangi+%F0%9F%91%8B;Backend+Developer+%26+System+Architect;Building+Scalable+Microservices;Spring+Boot+%7C+Java+%7C+System+Design" alt="Typing SVG" />
+</div>
 
 ---
+
+# 👋 Hi, I'm Shivam Shadangi  
+
+## 🚀 About Me
+
+**Backend Developer & System Architect** with expertise in building **enterprise-grade microservices** and **scalable distributed systems**.
+
+```yaml
+name: "Shivam Shadangi"
+role: "Backend Developer"
+location: "India"
+focus: ["Microservices Architecture", "System Design", "Performance Optimization"]
+currently_working_on: ["Spring Boot Microservices", "Event-Driven Architecture", "Cloud-Native Applications"]
+learning: ["Advanced System Design", "Kubernetes", "Performance Profiling"]
+hobbies: ["Cooking", "Anime", "Traveling", "Open Source Contributing"]
+```
 
 ## 🛠️ Tech Stack
 
