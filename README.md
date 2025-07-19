@@ -69,9 +69,3 @@ I'm passionate about:
 
 - ✉️ Email: `shadangi54@gmail.com`  
 - 🔗 [LinkedIn](https://linkedin.com/in/shivam-shadangi-928631147/)
-
----
-
-<p align="center">
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shadangi54.shadangi54)
-</p>
