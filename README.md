@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%20there!&animation=fadeIn&color=0:667eea,100:764ba2&height=120&fontSize=60&fontAlignY=38&desc=Backend%20Developer%20%7C%20System%20Architect&descAlignY=62&descSize=20"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20there!%20I'm%20Shivam&animation=fadeIn&color=0:667eea,100:764ba2&height=150&fontSize=50&fontAlignY=55&desc=Backend%20Developer%20%7C%20System%20Architect&descAlignY=75&descSize=18" alt="Header"/>
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shivam+Shadangi+%F0%9F%91%8B;Backend+Developer+%26+System+Architect;Building+Scalable+Microservices;Spring+Boot+%7C+Java+%7C+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Shivam+Shadangi+%F0%9F%91%8B;Backend+Developer+%26+System+Architect;Building+Scalable+Microservices;Spring+Boot+%E2%9C%A8+Java+%E2%9C%A8+System+Design;Passionate+about+Clean+Code+%26+Architecture" alt="Typing SVG" />
 </div>
 
 ---
