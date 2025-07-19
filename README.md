@@ -40,17 +40,40 @@ I'm passionate about:
 </p>
 -->
 <!--- --- -->
-<!---
-## 🚀 Featured Projects
+## 🏗️ Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| **[SmartCache-Service](#)** | Spring Boot microservice with Redis for high-performance caching |
-| **[FX-Ledger-Auto](#)** | Automatic JSON API for financial FX ledger reconciliation and event handling |
-| **[DesignPatterns-Library](#)** | Java implementation of GoF patterns with UML diagrams and usages |
+<div align="center">
+
+### 🏦 [EazyBank Microservices Platform](https://github.com/shadangi54/EazyBank)
+**Enterprise Banking Microservices Architecture**
+
+<img src="https://img.shields.io/badge/Spring%20Boot-3.3.0-brightgreen?style=for-the-badge&logo=spring-boot" />
+<img src="https://img.shields.io/badge/Spring%20Cloud-2023.0.1-blue?style=for-the-badge&logo=spring" />
+<img src="https://img.shields.io/badge/Docker-Enabled-blue?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/Kafka-Event%20Streaming-orange?style=for-the-badge&logo=apache-kafka" />
+
+</div>
+**🎯 Key Features:**
+- **7 Microservices**: Accounts, Cards, Loans, Message, Config Server, Eureka Server, Gateway Server
+- **Security**: OAuth 2.0/OpenID Connect with Keycloak integration
+- **Observability**: Complete monitoring stack (Prometheus, Grafana, Loki, Tempo)
+- **Event-Driven**: Apache Kafka for asynchronous communication
+- **Multi-Environment**: Development, QA, and Production configurations
+
+**🛠️ Technical Highlights:**
+```yaml
+Architecture: Microservices with API Gateway Pattern
+Service Discovery: Netflix Eureka
+Configuration: Spring Cloud Config Server
+Security: Keycloak + JWT + OAuth 2.0
+Monitoring: OpenTelemetry + Prometheus + Grafana
+Message Broker: Apache Kafka
+Containerization: Docker + Jib Plugin
+Database: H2 (Dev) + MySQL (Prod)
+```
 
 ---
--->
+
 ## 📚 Learning & Contributions
 
 - 🚧 Currently diving into **high-level system design frameworks** & **performance profiling**
@@ -65,7 +88,64 @@ I'm passionate about:
 
 ---
 
-## 📫 Connect with Me
+### 🎯 Currently Exploring
+- 🏗️ **Advanced System Design** - Distributed systems, CAP theorem, consensus algorithms
+- ☁️ **Cloud Native Technologies** - Kubernetes, Istio, serverless architectures
+- ⚡ **Performance Engineering** - JVM tuning, memory profiling, load testing
+- 🔄 **DevOps Practices** - GitOps, infrastructure automation, monitoring strategies
 
-- ✉️ Email: `shadangi54@gmail.com`  
-- 🔗 [LinkedIn](https://linkedin.com/in/shivam-shadangi-928631147/)
+---
+
+## 🤝 Let's Collaborate
+
+<div align="center">
+
+### I'm interested in collaborating on:
+
+<table>
+<tr>
+<td align="center" width="25%">
+🏗️<br/><strong>Microservices</strong><br/>Architecture & Design
+</td>
+<td align="center" width="25%">
+⚡<br/><strong>Performance</strong><br/>Optimization Projects
+</td>
+<td align="center" width="25%">
+🛠️<br/><strong>Developer Tools</strong><br/>& Productivity
+</td>
+<td align="center" width="25%">
+📚<br/><strong>Open Source</strong><br/>Java Libraries
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:shadangi54@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/shivam-shadangi-928631147/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/shadangi54">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
+
+**💡 "Code is like humor. When you have to explain it, it's bad." - Cory House**
+
+⭐ **If you find my work interesting, feel free to star my repositories!**
+
+</div>
